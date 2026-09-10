@@ -114,6 +114,7 @@
 | Title            | Link                                                         |
 | ---------------- | ------------------------------------------------------------ |
 | Dungeon Revealer | [link](https://github.com/dungeon-revealer/dungeon-revealer) |
+| n3wth.com        | [link](https://n3wth.com)                                    |
 | Rakes            | [link](https://yehrhrhehrg.com/)                             |
 | Colmen's Quest   | [link](https://coldigames.itch.io/colmens-quest)             |
 
